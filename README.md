@@ -31,8 +31,8 @@ class DataScientist:
                             # Data & Analytics
                             "Exploratory Data Analysis", 
                             "Statistical Analysis", 
-                            "Data Visualization (Power BI, Plotly)",
-                            "Feature Engineering (200+ features at scale)",
+                            "Data Visualization",
+                            "Feature Engineering",
                             "Data Preprocessing & Cleaning",
                             "High-Cardinality Feature Handling",
                             "Dimensionality Reduction",
@@ -52,7 +52,7 @@ class DataScientist:
                             "CI/CD for ML Systems",
                             "Containerized Workflows",
                             "Airflow & PySpark Pipelines",
-                            "Model Monitoring & Metrics APIs (FastAPI)",
+                            "Model Monitoring & Metrics APIs",
 
                             # Data Engineering
                             "ETL Pipeline Design (AWS, Azure)",
