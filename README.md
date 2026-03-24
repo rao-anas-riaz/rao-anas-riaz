@@ -10,6 +10,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.tenor.com/79UAnL90S70AAAAd/pixel-art.gif" width="600" alt="Pixel Art Coding Animation">
+</div>
+
 ## 🔍 Who am i?
 
 ```python
@@ -74,7 +78,7 @@ me.say_hi()
 
 ---
 
-## 🏗️ Core Competencies
+##  Core Competencies
 
 <div align="center">
 
@@ -82,7 +86,7 @@ me.say_hi()
 
 </div>
 
-### 💻 Programming
+###  Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -95,7 +99,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
-### 🧠 Machine Learning
+###  Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -109,7 +113,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Time_Series-4B0082?style=for-the-badge" />
 </p>
 
-### 📈 Visualization
+###  Visualization
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
@@ -118,7 +122,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🗄️ Data Tech & Infrastructure
+###  Data Tech & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -145,7 +149,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 📊 Analytics
+###  Analytics
 <p>
   <img src="https://img.shields.io/badge/Data_Transformation-0052CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Feature_Engineering-0052CC?style=for-the-badge" />
@@ -156,7 +160,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/KPI_Tracking-228B22?style=for-the-badge" />
 </p>
 
-### 🤖 Generative AI
+###  Generative AI
 <p>
   <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge" />
@@ -166,7 +170,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Stable_Diffusion-5C3EE8?style=for-the-badge" />
 </p>
 
-### ⚡ Workflow Automation
+###  Workflow Automation
 <p>
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-0052CC?style=for-the-badge" />
@@ -174,7 +178,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/CRON-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-### 🎬 Vibe Coding
+###  Vibe Coding
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
