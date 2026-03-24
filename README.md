@@ -10,9 +10,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.tenor.com/79UAnL90S70AAAAd/pixel-art.gif" width="600" alt="Pixel Art Coding Animation">
-</div>
+<p align="center">
+  <img src="vibing.gif" width="100%">
+</p>
 
 ## 🔍 Who am i?
 
